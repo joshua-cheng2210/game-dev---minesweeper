@@ -2,6 +2,7 @@
 i tried exploiting the different data structures in Java (i.e. stacks and queues; implementations and extends)
 
 Controls:
+- the game can be run through the main at Main.java
 - to place a flag:  [x] [y] [-1]
 - to dig:           [x] [y] [1]
 
